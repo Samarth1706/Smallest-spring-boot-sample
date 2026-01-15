@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: springboot-container
-          image: shamamumtaz/springboot-sample-repo:v1.0
+          image: raviranjan2121/repo-1401:v1.0
           ports:
             - containerPort: 8080
 
